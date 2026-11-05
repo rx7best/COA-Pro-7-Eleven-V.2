@@ -1,0 +1,6 @@
+{
+  "name": "COA Pro (7-Eleven Retail Spec)",
+  "description": "ระบบตรวจสอบและออกใบรับรองผลวิเคราะห์ (Certificate of Analysis) มะเขือเทศคละสี 140g ตามมาตรฐาน 7-Eleven",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
